@@ -532,12 +532,12 @@
   <!-- project path="packages/apps/Car/LocalMediaPlayer" name="platform/packages/apps/Car/LocalMediaPlayer" groups="pdk-fs" /> -->
   <!-- project path="packages/apps/Car/Media" name="platform/packages/apps/Car/Media" groups="pdk-fs" /> -->
   <!-- project path="packages/apps/Car/Messenger" name="platform/packages/apps/Car/Messenger" groups="pdk-fs" /> -->
-  <!-- project path="packages/apps/Car/Overview" name="platform/packages/apps/Car/Overview" groups="pdk-fs" /> -->
+  <project path="packages/apps/Car/Overview" name="platform/packages/apps/Car/Overview" groups="pdk-fs" />
   <!-- project path="packages/apps/Car/Radio" name="platform/packages/apps/Car/Radio" groups="pdk-fs" /> -->
   <!-- project path="packages/apps/Car/Settings" name="platform/packages/apps/Car/Settings" groups="pdk-fs" /> -->
   <!-- project path="packages/apps/Car/Stream" name="platform/packages/apps/Car/Stream" groups="pdk-fs" /> -->
   <!-- project path="packages/apps/Car/SystemUpdater" name="platform/packages/apps/Car/SystemUpdater" groups="pdk-fs" /> -->
-  <!-- project path="packages/apps/Car/libs" name="platform/packages/apps/Car/libs" groups="pdk-fs" /> -->
+  <project path="packages/apps/Car/libs" name="platform/packages/apps/Car/libs" groups="pdk-fs" />
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs,pdk-fs" />
