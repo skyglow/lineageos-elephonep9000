@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="lineageos"
            fetch="https://github.com/skyglow/" 
-           revision="lineageos-16.0-p9000" />
+           revision="lineageos-16.0-elephonep9000" />
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
